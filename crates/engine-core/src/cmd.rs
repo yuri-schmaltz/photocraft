@@ -74,6 +74,8 @@ pub mod layer_copy_cmds;
 #[cfg(test)]
 mod layer_duplicate_new_document_history_tests;
 #[cfg(test)]
+mod layer_duplicate_new_document_name_tests;
+#[cfg(test)]
 mod layer_from_background_name_tests;
 pub mod layer_label_cmds;
 pub mod layer_list_cmds;
